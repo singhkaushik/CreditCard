@@ -1,0 +1,10 @@
+.env
+node_modules
+public/build
+src/components/*/__tests__
+src/pages/*/__tests__
+test-report.xml
+npm-debug.log*
+yarn-error.log*
+
+
